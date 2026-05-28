@@ -1,6 +1,6 @@
 # Hi 👋, I'm Doğukan Bağış
 
-### A passionate Gherkin developer
+### A passionate Software developer
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bulutdogukan" alt="Bulutdogukan" /></a> </p>
 
